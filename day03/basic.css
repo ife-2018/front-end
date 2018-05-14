@@ -1,0 +1,16 @@
+body{
+	font-family:"Times New Roman",Georgia,Serif;
+}
+h1 {
+    font-size: 32px;
+    text-shadow: 3px 3px 3px #FF0000;
+}
+p {
+    color: orange;
+}
+dt{
+	font-weight:700;
+}
+dl{
+	line-height:1.5em;
+}
